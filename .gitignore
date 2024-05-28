@@ -1,4 +1,4 @@
-data/*
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -128,6 +128,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+ais_env/
 ENV/
 env.bak/
 venv.bak/
